@@ -2,6 +2,11 @@
 label: Test
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  default: dd
+  label: dd
+  name: dddd
+  description: dd
 pages:
 - test.md

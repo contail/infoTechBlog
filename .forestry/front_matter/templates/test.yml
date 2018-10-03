@@ -8,4 +8,5 @@ fields:
   name: test
   label: test
 pages:
+- content/posts/백준-드래곤커브-풀이.md
 - content/posts/test.md

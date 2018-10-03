@@ -7,8 +7,7 @@ canonifyurls = true
 [params]
     ga_api_key = "Your Google Analytics tracking id" # Google Analytics API key.
     avatar = "../../img/avatar.jpg" # Image should be square, and roughly 150px x 150px
-    bio = "최근들어 하고싶은게 많아진 개발자입니다. 아직은 초보이지만 언젠가는 고오급 개발자를
-	꿈꾸고 있습니다."
+    bio = "최근들어 하고싶은게 많아진 개발자입니다. 아직은 초보이지만 언젠가는 고오급 개발자를 꿈꾸고 있습니다."
     github = "http://github.com/contail"
     twitter = "https://twitter.com/username"
     linkedin = "https://www.linkedin.com/in/username"

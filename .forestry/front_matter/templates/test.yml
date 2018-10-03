@@ -2,6 +2,10 @@
 label: TEST
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  default: test
+  name: test
+  label: test
 pages:
 - content/posts/test.md

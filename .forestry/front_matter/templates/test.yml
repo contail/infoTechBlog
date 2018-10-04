@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/백준-드래곤커브-15685번-문제풀이.md
 - content/posts/merge-sort.md
 - content/posts/다익스트라-알고리즘.md
 - content/posts/휴고-블로그를-시작합니다!.md

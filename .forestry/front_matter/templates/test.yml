@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/라즈베리파이-동영상-촬영.md
 - content/posts/삼성아카데미-1486-장훈이의-높은선반-문제-.md
 - content/posts/백준-드래곤커브-15685번-문제풀이.md
 - content/posts/merge-sort.md

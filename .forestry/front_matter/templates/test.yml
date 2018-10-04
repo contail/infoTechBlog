@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/union-find-알고리즘.md
 - content/posts/백준---파티---1238번-문제.md
 - content/posts/다익스트라-알고리즘.md
 - content/posts/라즈베리파이-동영상-촬영.md

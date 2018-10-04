@@ -7,3 +7,5 @@ fields:
   default: ''
   name: test
   label: test
+pages:
+- content/posts/휴고-블로그를-시작합니다!.md

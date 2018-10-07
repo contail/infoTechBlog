@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/삼성-콩-많이-심기-4301번-문제.md
 - content/posts/백준-15651.md
 - content/posts/백준-1976번-여행-가자-.md
 - content/posts/union-find-알고리즘.md

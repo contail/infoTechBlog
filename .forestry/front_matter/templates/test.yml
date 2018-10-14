@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/백준-2210-숫자판-점프.md
 - content/posts/[백준]-15686-치킨배달.md
 - content/posts/[삼성문제]-나는-개구리로소이다-5550번-문제.md
 - content/posts/삼성-콩-많이-심기-4301번-문제.md

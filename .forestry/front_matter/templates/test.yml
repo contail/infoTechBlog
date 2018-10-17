@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/백준-경사로-14890번-문제.md
 - content/posts/백준-사다리-조작-15684번-문제.md
 - content/posts/백준-15683-감시.md
 - content/posts/백준-2210-숫자판-점프.md

@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/백준-스타트와링크-14889번-문제.md
 - content/posts/파이썬-ssl-certificate-verify-failed-에러.md
 - content/posts/백준-녹색-옷-입은-애가-젤다지-4485번-문제.md
 - content/posts/백준-경사로-14890번-문제.md

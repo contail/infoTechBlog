@@ -4,7 +4,6 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
-- content/posts/test.md
 - content/posts/알고리즘-이진탐색.md
 - content/posts/백준-스타트와링크-14889번-문제.md
 - content/posts/파이썬-ssl-certificate-verify-failed-에러.md

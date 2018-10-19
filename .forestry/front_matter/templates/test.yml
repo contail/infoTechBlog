@@ -4,6 +4,7 @@ hide_body: false
 is_partial: false
 fields: []
 pages:
+- content/posts/알고리즘-선택정렬.md
 - content/posts/알고리즘-삽입정렬.md
 - content/posts/알고리즘-이진탐색.md
 - content/posts/백준-스타트와링크-14889번-문제.md
